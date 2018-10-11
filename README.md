@@ -1,3 +1,7 @@
+
+# !!!Caution: this is a fork from https://github.com/abdennour/react-csv that should be deleted once [this PR](https://github.com/abdennour/react-csv/pull/108) gets merged.
+--------
+
 [![Build Status](https://travis-ci.org/abdennour/react-csv.svg?branch=master)](https://travis-ci.org/abdennour/react-csv)
 [![Coverage Status](https://coveralls.io/repos/github/abdennour/react-csv/badge.svg?branch=master)](https://coveralls.io/github/abdennour/react-csv?branch=master)
 
